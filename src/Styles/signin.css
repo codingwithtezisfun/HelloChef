@@ -1,0 +1,58 @@
+.bodyCon {
+  background-color: rgb(247, 247, 247);
+  height: 88vh;
+  display: flex;
+}
+.mainCon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(252, 252, 252);
+  border-radius: 5px;
+  border: 2px solid rgb(219, 216, 216);
+  width: 400px;
+  min-height: 470px;
+  margin-left: calc(50% - 205px);
+  color: rgb(102, 100, 100);
+  font-size: 18px;
+  margin-top: 40px;
+}
+.signInContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.butt {
+  color: white;
+  font-weight: bold;
+  background-color: #e32636;
+  border-radius: 40px;
+  padding: 18px;
+  width: 350px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.googlebutt {
+  width: 350px;
+  padding: 13px;
+  background-color: white;
+  font-weight: bold;
+  color: black;
+  border-radius: 7px;
+  border: 2px solid rgb(219, 216, 216);
+}
+.anchor {
+  text-decoration: none;
+  color: red;
+}
+.label {
+  width: 350px;
+  border: 2px solid rgb(219, 216, 216);
+  border-radius: 5px;
+  height: 50px;
+}
+.hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

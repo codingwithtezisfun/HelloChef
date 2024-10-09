@@ -1,0 +1,43 @@
+.howMain {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-top: 50px;
+}
+.family {
+  background-image: url("../../public/Family_cooking.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 97vh;
+  width: 50%;
+}
+.how {
+  width: 50%;
+  padding: 70px;
+  background-color: #fae5ea;
+}
+.how h1 {
+  color: rgb(235, 63, 63);
+  margin-top: 50px;
+}
+.how p {
+  color: rgb(0, 0, 0);
+}
+.how button {
+  color: white;
+  font-weight: bold;
+  background-color: tomato;
+  border-radius: 40px;
+  padding: 18px;
+  width: 200px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.how h5 span {
+  color: #f7a26a;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 25px;
+}

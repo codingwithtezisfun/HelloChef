@@ -1,0 +1,24 @@
+.buttonn {
+  color: white;
+  font-weight: bold;
+  background-color: #e32636;
+  border-radius: 40px;
+  padding: 18px;
+  width: 100px;
+  border: none;
+  cursor: pointer;
+  margin-right: 40px;
+}
+.navbar-collapse {
+  margin-left: 500px;
+}
+.navbar {
+  padding: 0px;
+}
+.navbar-brand {
+  margin-left: 50px;
+}
+
+.nav-item {
+  margin-left: 20px;
+}

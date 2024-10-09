@@ -1,0 +1,51 @@
+.text {
+  align-items: center;
+  text-align: center;
+}
+.text h2 {
+  font-weight: bold;
+  color: #555555;
+}
+
+.text p {
+  color: #6e6a6a;
+  font-size: large;
+  margin-left: 10px;
+}
+.mainContainer {
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.whyContent {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  width: 33%;
+}
+.img {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+}
+.check {
+  color: rgb(54, 175, 54);
+  margin-right: 5px;
+}
+.jumbotronText h1 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #555555;
+  margin-top: 10px;
+}

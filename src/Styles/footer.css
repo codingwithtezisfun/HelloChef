@@ -1,0 +1,70 @@
+.Footer {
+  bottom: 0;
+  width: 100vw;
+  height: 90vh;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.About ul,
+.info ul,
+.work ul,
+.contact ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.About ul li a,
+.info ul li a,
+.work ul li a {
+  text-decoration: none;
+  color: gray;
+}
+.contact li {
+  color: gray;
+}
+.footerInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.subscribe label {
+  color: gray;
+}
+.subscribe button {
+  color: white;
+  font-weight: bold;
+  background-color: #e32636;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 8px;
+  width: 100px;
+  border: none;
+  cursor: pointer;
+}
+.subscribe input {
+  padding: 7px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 1px solid rgba(70, 67, 67, 0.267);
+}
+.imgss {
+  margin-left: 40%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.icon {
+  font-size: 30px;
+  color: gray;
+  margin-right: 15px;
+}
+.iconLinks {
+  justify-content: space-between;
+  gap: 10px;
+}
+.copyright {
+  margin-left: 30%;
+  margin-top: 80px;
+}

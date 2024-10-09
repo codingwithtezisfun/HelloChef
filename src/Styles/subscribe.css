@@ -1,0 +1,45 @@
+.subContainer {
+  background-image: url("../../public/subscribe.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.sub {
+  background-color: white;
+  border-radius: 10px;
+  width: 70%;
+  margin-top: 100px;
+  padding: 20px;
+}
+.p {
+  width: 70%;
+  margin-top: 30px;
+  color: rgb(185, 184, 184);
+}
+.sub button {
+  color: white;
+  font-weight: bold;
+  background-color: #e32636;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 8px;
+  width: 100px;
+  border: none;
+  cursor: pointer;
+}
+.sub input {
+  padding: 7px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 1px solid rgba(70, 67, 67, 0.267);
+  margin-left: 5%;
+  margin-bottom: 30px;
+}
+.input p {
+  margin-left: 1%;
+}

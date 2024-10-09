@@ -1,0 +1,90 @@
+.ig img {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+.ig a {
+  font-size: 36px;
+  margin-top: 14px;
+  color: rgb(97, 95, 95);
+}
+.helloContainer {
+  background-color: #f9f9ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ig {
+  padding: 20px;
+  margin-top: 40px;
+}
+.imgs {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.imgs img {
+  width: 220px;
+  height: 200px;
+}
+.txt {
+  text-align: center;
+  margin-top: 50px;
+}
+.txt h3 span {
+  color: rgb(226, 56, 56);
+}
+.review {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 100px;
+  margin-left: 50px;
+}
+.review img {
+  width: 80px;
+  height: 40px;
+}
+.helloFooter {
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  height: 150px;
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.medal {
+  color: orangered;
+  width: 30px;
+  height: 50px;
+  margin-right: 20px;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+}
+.btnn {
+  color: white;
+  font-weight: bold;
+  background-color: tomato;
+  border-radius: 40px;
+  padding: 2px;
+  width: 50px;
+  border: none;
+  cursor: pointer;
+}
+.top h4 span {
+  color: red;
+}
+.footerText p a {
+  color: red;
+}
+.cert img {
+  margin-left: 250px;
+  width: 150px;
+  height: 150px;
+}
